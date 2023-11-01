@@ -1,0 +1,185 @@
+code;Country;COUNTRY
+ad;Andorra;ANDORRA
+ae;United Arab Emirates;UNITED ARAB EMIRATES
+af;Afghanistan;AFGHANISTAN
+al;Albania;ALBANIA
+am;Armenia;ARMENIA
+ao;Angola;ANGOLA
+aq;Antarctica;ANTARCTICA
+ar;Argentina;ARGENTINA
+at;Austria;AUSTRIA
+au;Australia;AUSTRALIA
+az;Azerbaijan;AZERBAIJAN
+ba;Bosnia and Herzegovina;BOSNIA-HERZEGOVINA
+bd;Bangladesh;BANGLADESH
+be;Belgium;BELGIUM
+bf;Burkina Faso;BURKINA FASO
+bg;Bulgaria;BULGARIA
+bh;Bahrain;BAHRAIN
+bi;Burundi;BURUNDI
+bj;Benin;BENIN
+bn;Brunei Darussalam;BRUNEI DARUSSALAM
+bo;Bolivia, Plurinational State of;BOLIVIA
+br;Brazil;BRAZIL
+bt;Bhutan;BHUTAN
+bw;Botswana;BOTSWANA
+by;Belarus;BELARUS
+bz;Belize;BELIZE
+ca;Canada;CANADA
+cd;Congo, the Democratic Republic of the;CONGO, THE DEMOCRATIC REPUBLIC OF THE
+cf;Central African Republic;CENTRAL AFRICAN REPUBLIC
+cg;Congo;CONGO
+ch;Switzerland;SWITZERLAND
+ci;Cote d’Ivoire;COTE D’IVOIRE
+cl;Chile;CHILE
+cm;Cameroon;CAMEROON
+cn;China;CHINA
+co;Colombia;COLOMBIA
+cr;Costa Rica;COSTA RICA
+cu;Cuba;CUBA
+cv;Cape Verde;CAPE VERDE
+cy;Cyprus;CYPRUS
+cz;Czech Republic;CZECH REPUBLIC
+de;Germany;GERMANY
+dj;Djibouti;DJIBOUTI
+dk;Denmark;DENMARK
+do;Dominican Republic;DOMINICAN REPUBLIC
+dz;Algeria;ALGERIA
+ec;Ecuador;ECUADOR
+ee;Estonia;ESTONIA
+eg;Egypt;EGYPT
+eh;Western Sahara;WESTERN SAHARA
+er;Eritrea;ERITREA
+es;Spain;SPAIN
+et;Ethiopia;ETHIOPIA
+fi;Finland;FINLAND
+fr;France;FRANCE
+ga;Gabon;GABON
+gb;United Kingdom;UK
+ge;Georgia;SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS
+gf;French Guiana;FRENCH GUIANA
+gh;Ghana;GHANA
+gl;Greenland;GREENLAND
+gm;Gambia;GAMBIA
+gn;Guinea;GUINEA
+gq;Equatorial Guinea;EQUATORIAL GUINEA
+gr;Greece;GREECE
+gt;Guatemala;GUATEMALA
+gu;Guam;GUAM
+gw;Guinea-Bissau;GUINEA-BISSAU
+gy;Guyana;GUYANA
+hk;Hong Kong;HONG KONG
+hn;Honduras;HONDURAS
+hr;Croatia;CROATIA
+ht;Haiti;HAITI
+hu;Hungary;HUNGARY
+id;Indonesia;INDONESIA
+ie;Ireland;IRELAND
+il;Israel;ISRAEL
+in;India;INDIA
+iq;Iraq;IRAQ
+ir;Iran, Islamic Republic of;IRAN, ISLAMIC REPUBLIC OF
+is;Iceland;ICELAND
+it;Italy;ITALY
+jm;Jamaica;JAMAICA
+jo;Jordan;JORDAN
+jp;Japan;JAPAN
+ke;Kenya;KENYA
+kg;Kyrgyzstan;KYRGYZSTAN
+kh;Cambodia;CAMBODIA
+kp;Korea, Democratic People’s Republic of;KOREA, DEMOCRATIC PEOPLE’S REPUBLIC OF
+kr;Korea, Republic of;KOREA, REPUBLIC OF
+kw;Kuwait;KUWAIT
+kz;Kazakhstan;KAZAKHSTAN
+la;Lao People’s Democratic Republic;LAO PEOPLE’S DEMOCRATIC REPUBLIC
+lb;Lebanon;LEBANON
+li;Liechtenstein;LIECHTENSTEIN
+lk;Sri Lanka;SRI LANKA
+lr;Liberia;LIBERIA
+ls;Lesotho;LESOTHO
+lt;Lithuania;LITHUANIA
+lu;Luxembourg;LUXEMBOURG
+lv;Latvia;LATVIA
+ly;Libyan Arab Jamahiriya;LIBYAN ARAB JAMAHIRIYA
+ma;Morocco;MOROCCO
+mc;Monaco;MONACO
+md;Moldova, Republic of;MOLDOVA, REPUBLIC OF
+me;Montenegro;MONTENEGRO
+mg;Madagascar;MADAGASCAR
+mk;Macedonia, the former Yugoslav Republic of;MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF
+ml;Mali;MALI
+mm;Myanmar;MYANMAR (BURMA)
+mn;Mongolia;MONGOLIA
+mo;Macao;MACAO
+mr;Mauritania;MAURITANIA
+mt;Malta;MALTA
+mu;Mauritius;MAURITIUS
+mv;Maldives;MALDIVES
+mw;Malawi;MALAWI
+mx;Mexico;MEXICO
+my;Malaysia;MALAYSIA
+mz;Mozambique;MOZAMBIQUE
+na;Namibia;NAMIBIA
+ne;Niger;NIGER
+ng;Nigeria;NIGERIA
+ni;Nicaragua;NICARAGUA
+nl;Netherlands;NETHERLANDS
+no;Norway;NORWAY
+np;Nepal;NEPAL
+nz;New Zealand;NEW ZEALAND
+om;Oman;OMAN
+pa;Panama;PANAMA
+pe;Peru;PERU
+pg;Papua New Guinea;PAPUA NEW GUINEA
+ph;Philippines;PHILIPPINES
+pk;Pakistan;PAKISTAN
+pl;Poland;POLAND
+pr;Puerto Rico;PUERTO RICO
+ps;Palestine, State of;PALESTINE, STATE OF
+pt;Portugal;PORTUGAL
+py;Paraguay;PARAGUAY
+re;Reunion;REUNION
+ro;Romania;ROMANIA
+rs;Serbia;SERBIA
+ru;Russian Federation;RUSSIAN FEDERATION
+rw;Rwanda;RWANDA
+sa;Saudi Arabia;SAUDI ARABIA
+sc;Seychelles;SEYCHELLES
+sd;Sudan;SUDAN
+se;Sweden;SWEDEN
+sg;Singapore;SINGAPORE
+sh;Saint Helena, Ascension and Tristan da Cunha;SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA
+si;Slovenia;SLOVENIA
+sk;Slovakia;SLOVAKIA
+sl;Sierra Leone;SIERRA LEONE
+sm;San Marino;SAN MARINO
+sn;Senegal;SENEGAL
+so;Somalia;SOMALIA
+sr;Suriname;SURINAME
+st;Sao Tome and Principe;SAO TOME AND PRINCIPE
+sv;El Salvador;EL SALVADOR
+sy;Syrian Arab Republic;SYRIAN ARAB REPUBLIC
+sz;Swaziland;SWAZILAND
+td;Chad;CHAD
+tg;Togo;TOGO
+th;Thailand;THAILAND
+tj;Tajikistan;TAJIKISTAN
+tl;Timor-Leste;TIMOR-LESTE
+tm;Turkmenistan;TURKMENISTAN
+tn;Tunisia;TUNISIA
+tr;Turkey;TURKEY
+tw;Taiwan (Republic of China);TAIWAN (REPUBLIC OF CHINA)
+tz;Tanzania, United Republic of;TANZANIA, UNITED REPUBLIC OF
+ua;Ukraine;UKRAINE
+ug;Uganda;UGANDA
+us;United States;USA
+uy;Uruguay;URUGUAY
+uz;Uzbekistan;UZBEKISTAN
+va;Holy See (Vatican City State);HOLY SEE (VATICAN CITY STATE)
+ve;Venezuela, Bolivarian Republic of;VENEZUELA
+vn;Viet Nam;VIET NAM
+ye;Yemen;YEMEN
+yt;Mayotte;MAYOTTE
+za;South Africa;SOUTH AFRICA
+zm;Zambia;ZAMBIA
+zw;Zimbabwe;ZIMBABWE
